@@ -28,4 +28,4 @@ Mostrar votos obtidos para cada candidato em uma eleição presidencial.
 	exibe a quantidade de votos para cada candidato
 fim
 
-![Fluxograma](https://user-images.githubusercontent.com/64235507/168447377-f7b5f419-bec5-4a75-b79b-1050ce76a6d8.png)
+![fluxograma](https://user-images.githubusercontent.com/64235507/168447669-497fa683-3641-4d90-a7fe-e8c890ba6826.png)
